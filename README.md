@@ -1,4 +1,4 @@
-# SIDECU
+# SIDECU by Innova tech
 Proyecto de gestión de personal y equipo de computo, realizador para la asignatura de Ingeniería de Software
 
 # Prototipo de aplicación con control de vistas en Figma
