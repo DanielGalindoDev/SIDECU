@@ -17,9 +17,11 @@ El proyecto consistió en desarrollar una solución tecnológica para monitorear
 - Arquitectura escalable y eficiente para el monitoreo de equipos y personal.
 ## Vistas del proyecto
 - Eleccion de cuenta <br>
-< align="center" img width="500" alt="Captura de pantalla 2024-04-19 a la(s) 11 52 26 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/80186abe-7a0d-4905-9321-109bbeaad849"><br>
+<p align="center"><br>
+<img width="500" alt="Captura de pantalla 2024-04-19 a la(s) 11 52 26 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/80186abe-7a0d-4905-9321-109bbeaad849"><br></p>
 - Login<br>
-<img width="500" alt="Captura de pantalla 2024-04-19 a la(s) 11 52 57 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/6e2f29a9-f8bb-4257-90b1-71ca32887bad"><br>
+<p align="center"><br>
+<img width="500" alt="Captura de pantalla 2024-04-19 a la(s) 11 52 57 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/6e2f29a9-f8bb-4257-90b1-71ca32887bad"><br></p> 
 - Bienvenida<br>
 <p align="center"><br>
 <img width="500" alt="Captura de pantalla 2024-04-19 a la(s) 11 53 25 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/97c77408-2e16-4baa-8340-96bccc046b7f"><br></p>
