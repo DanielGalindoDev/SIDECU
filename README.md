@@ -17,8 +17,9 @@ El proyecto consistió en desarrollar una solución tecnológica para monitorear
 - Arquitectura escalable y eficiente para el monitoreo de equipos y personal.
 
 ## Instrucciones de uso
-1. Descargar el archivo del prototipo en formato Figma.
-2. Abrir el archivo en Figma para ver el diseño completo de la aplicación.
+1. Lee la documentacion del proyecto:  [IT_Proyecto_SIdECU.pdf](https://github.com/DanielGalindoDev/SIDECU/files/15043805/IT_Proyecto_SIdECU.pdf)
+1. Descargar el archivo del prototipo en formato Figma: 
+3. Abrir el archivo en Figma para ver el diseño completo de la aplicación.
 
 ## Equipo de desarrollo
 - Flores Chávez Marcos Gabriel
