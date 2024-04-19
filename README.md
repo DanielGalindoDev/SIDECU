@@ -16,33 +16,33 @@ El proyecto consistió en desarrollar una solución tecnológica para monitorear
 - Interfaz de usuario intuitiva y fácil de usar.
 - Arquitectura escalable y eficiente para el monitoreo de equipos y personal.
 ## Vistas del proyecto
-- Eleccion de cuenta
-<img width="385" alt="Captura de pantalla 2024-04-19 a la(s) 11 52 26 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/80186abe-7a0d-4905-9321-109bbeaad849">
-- Login
-<img width="427" alt="Captura de pantalla 2024-04-19 a la(s) 11 52 57 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/6e2f29a9-f8bb-4257-90b1-71ca32887bad">
-- Bienvenida
-<img width="428" alt="Captura de pantalla 2024-04-19 a la(s) 11 53 25 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/97c77408-2e16-4baa-8340-96bccc046b7f">
-- Sistema de busquedas
-<img width="384" alt="Captura de pantalla 2024-04-19 a la(s) 11 53 49 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/010e6330-651c-407c-90af-5a68e605b6d2">
-<img width="377" alt="Captura de pantalla 2024-04-19 a la(s) 11 54 04 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/9d93a071-b190-4f96-a573-ca1a2c19c461">
-<img width="322" alt="Captura de pantalla 2024-04-19 a la(s) 11 54 19 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/d17e3708-597a-44aa-9b18-d6f5084fabf4">
-- Información de los equipos
-<img width="302" alt="Captura de pantalla 2024-04-19 a la(s) 11 54 46 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/a3354e1e-aa7e-43b2-b899-a0ce6e2f6513">
-<img width="339" alt="Captura de pantalla 2024-04-19 a la(s) 11 54 58 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/3069ccb1-d7ca-4a53-9ceb-f034e5384ffa">
-- Historial
-<img width="338" alt="Captura de pantalla 2024-04-19 a la(s) 11 55 49 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/82e0f55a-4e29-46ac-a152-3372bb81ba04">
-- Informes
-<img width="332" alt="Captura de pantalla 2024-04-19 a la(s) 11 56 13 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/9477e145-180f-47eb-957d-d319fb718075">
-- Configuracion
-<img width="428" alt="Captura de pantalla 2024-04-19 a la(s) 11 56 36 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/592c5574-f03e-4958-b78b-916d1c049533">
-- Registro de usuarios y disposistivos
-<img width="521" alt="Captura de pantalla 2024-04-19 a la(s) 11 57 50 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/913f3022-7d52-4fb5-9f7d-466a9a546ac3">
-<img width="515" alt="Captura de pantalla 2024-04-19 a la(s) 11 58 02 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/e70f7748-0c98-49df-9f90-d2b69e557391">
-<img width="449" alt="Captura de pantalla 2024-04-19 a la(s) 11 58 24 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/cfed571a-e4fb-49ee-988c-b632a69b5f9d">
-<img width="458" alt="Captura de pantalla 2024-04-19 a la(s) 11 58 42 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/351995b6-8592-4644-9045-6b44bc505c7e">
-- Agregar y eliminar cuentas del sistema
-<img width="405" alt="Captura de pantalla 2024-04-19 a la(s) 11 58 55 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/4a1b97ba-bfd5-4be6-b8b1-d0ff1f0387f3">
-<img width="410" alt="Captura de pantalla 2024-04-19 a la(s) 11 59 19 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/000c1112-2a41-4091-9b5b-c631daca7fac">
+- Eleccion de cuenta <br>
+<img width="385" alt="Captura de pantalla 2024-04-19 a la(s) 11 52 26 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/80186abe-7a0d-4905-9321-109bbeaad849"><br>
+- Login<br>
+<img width="427" alt="Captura de pantalla 2024-04-19 a la(s) 11 52 57 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/6e2f29a9-f8bb-4257-90b1-71ca32887bad"><br>
+- Bienvenida<br>
+<img width="428" alt="Captura de pantalla 2024-04-19 a la(s) 11 53 25 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/97c77408-2e16-4baa-8340-96bccc046b7f"><br>
+- Sistema de busquedas<br>
+<img width="384" alt="Captura de pantalla 2024-04-19 a la(s) 11 53 49 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/010e6330-651c-407c-90af-5a68e605b6d2"><br>
+<img width="377" alt="Captura de pantalla 2024-04-19 a la(s) 11 54 04 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/9d93a071-b190-4f96-a573-ca1a2c19c461"><br>
+<img width="322" alt="Captura de pantalla 2024-04-19 a la(s) 11 54 19 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/d17e3708-597a-44aa-9b18-d6f5084fabf4"><br>
+- Información de los equipos<br>
+<img width="302" alt="Captura de pantalla 2024-04-19 a la(s) 11 54 46 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/a3354e1e-aa7e-43b2-b899-a0ce6e2f6513"><br>
+<img width="339" alt="Captura de pantalla 2024-04-19 a la(s) 11 54 58 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/3069ccb1-d7ca-4a53-9ceb-f034e5384ffa"><br>
+- Historial<br>
+<img width="338" alt="Captura de pantalla 2024-04-19 a la(s) 11 55 49 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/82e0f55a-4e29-46ac-a152-3372bb81ba04"><br>
+- Informes<br>
+<img width="332" alt="Captura de pantalla 2024-04-19 a la(s) 11 56 13 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/9477e145-180f-47eb-957d-d319fb718075"><br>
+- Configuracion<br>
+<img width="428" alt="Captura de pantalla 2024-04-19 a la(s) 11 56 36 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/592c5574-f03e-4958-b78b-916d1c049533"><br>
+- Registro de usuarios y disposistivos<br>
+<img width="521" alt="Captura de pantalla 2024-04-19 a la(s) 11 57 50 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/913f3022-7d52-4fb5-9f7d-466a9a546ac3"><br>
+<img width="515" alt="Captura de pantalla 2024-04-19 a la(s) 11 58 02 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/e70f7748-0c98-49df-9f90-d2b69e557391"><br>
+<img width="449" alt="Captura de pantalla 2024-04-19 a la(s) 11 58 24 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/cfed571a-e4fb-49ee-988c-b632a69b5f9d"><br>
+<img width="458" alt="Captura de pantalla 2024-04-19 a la(s) 11 58 42 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/351995b6-8592-4644-9045-6b44bc505c7e"><br>
+- Agregar y eliminar cuentas del sistema<br>
+<img width="405" alt="Captura de pantalla 2024-04-19 a la(s) 11 58 55 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/4a1b97ba-bfd5-4be6-b8b1-d0ff1f0387f3"><br>
+<img width="410" alt="Captura de pantalla 2024-04-19 a la(s) 11 59 19 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/000c1112-2a41-4091-9b5b-c631daca7fac"><br>
 
 
 
