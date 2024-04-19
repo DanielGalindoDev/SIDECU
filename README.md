@@ -18,8 +18,15 @@ El proyecto consistió en desarrollar una solución tecnológica para monitorear
 
 ## Instrucciones de uso
 1. Lee la documentacion del proyecto:  [IT_Proyecto_SIdECU.pdf](https://github.com/DanielGalindoDev/SIDECU/files/15043805/IT_Proyecto_SIdECU.pdf)
-1. Descargar el archivo del prototipo en formato Figma: 
-3. Abrir el archivo en Figma para ver el diseño completo de la aplicación.
+2. Abre el prototipo en formato Figma: [Prototipo_SIdECU](https://www.figma.com/file/2WhnPI4R89XAVAe1pWfu6v/SIDECU-Prototipo?type=design&node-id=0%3A1&mode=design&t=73gKo7WXyfTRzJnh-1)
+3. Corre el prototipo dando click en el icono de play en la parte superior derecha de figma.
+   <img width="1280" alt="Captura de pantalla 2024-04-19 a la(s) 11 42 26 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/893bf6d8-4b07-4452-a77e-01553dfb2f14">
+4. Ajusta el tamaño de visualizacion pulzando options, y luego fit to screen
+   <img width="1280" alt="Captura de pantalla 2024-04-19 a la(s) 11 44 40 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/37495679-a13b-48fc-8e07-65ed4ccd877b">
+
+   <img width="236" alt="Captura de pantalla 2024-04-19 a la(s) 11 45 12 a m" src="https://github.com/DanielGalindoDev/SIDECU/assets/129880574/3e35180e-13b5-45c8-a0e9-0cd5d0e4d0ab">
+
+5. Recorre dando clicks en el prototipo, o mirando las vistas desde el mapa de vistas en figma.
 
 ## Equipo de desarrollo
 - Flores Chávez Marcos Gabriel
